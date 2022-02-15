@@ -1,6 +1,6 @@
 
 {
-  botname = "DEFFBOTZ"
+  botname = "LynXzy🥀"
 
 
   exports.help = (prefix) => {
