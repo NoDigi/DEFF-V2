@@ -1,5 +1,5 @@
 module.exports.mess = {
-	        wait: '⋘ 𝑃𝑙𝑒𝑎𝑠𝑒 𝑤𝑎𝑖𝑡... ⋙',
+	        wait: '⋘ Tunggu Ya Kontol... ⋙',
 	        ban: 'Maaf nomor kamu sudah terbanned, Silahkan hubungi owner❗',
 			success: 'Selesai...',
 			limit: `Limit kamu sudah habis silahkan kirim .limit untuk mengecek limit`,
