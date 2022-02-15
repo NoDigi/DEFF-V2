@@ -1,11 +1,11 @@
 
 {
-  botname = "DEFFBOZ"
+  botname = "LynXzy🥀"
 
 
   exports.apkmenu = (prefix) => {
     return `
-┌───[APK MENU  」
+┌───[APK MENU」
 ├◈${prefix}happymod text
 ├◈${prefix}apkdone text
 ├◈${prefix}apkgoogle text
